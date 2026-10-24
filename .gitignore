@@ -1,0 +1,4 @@
+terraform-provider-cookiemunch
+dist/
+.terraform/
+*.tfstate*
